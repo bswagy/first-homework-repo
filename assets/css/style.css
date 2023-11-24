@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
-    padding: 15px;
-    margin: 20px;
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
@@ -94,7 +94,7 @@ p {
 
 .benefit-img {
     display: block;
-    margin-bottom: 10px auto;
+    margin: 0 10px auto;
     max-width: 150px
 }
 * SEO, ORM, and SMM section styles */
